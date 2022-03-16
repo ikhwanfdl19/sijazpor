@@ -1,0 +1,35 @@
+@media (min-width: 1400px){
+    /* Banner Content */
+    .banner-img{
+        right: -415px;
+    }
+
+    /* Feature Content */
+    .bg-feature img{
+        width: 1320px;
+    }
+
+    .features{  
+        margin: 0 80px;
+    }
+
+    /* Form Content */    
+    .forms{
+        margin: 0 80px;
+    }
+}
+@media (min-width: 1200px){
+
+}
+
+@media (min-width: 992px){
+    
+}
+
+@media (min-width: 768px){
+
+}
+
+@media (min-width: 576px){
+
+}
