@@ -682,6 +682,7 @@
 
     .forms h2 {
         margin-bottom: 80px;
+        font-size: calc(1.325rem + .9vw);
     }
 
     .form-item{
