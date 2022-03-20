@@ -1,6 +1,6 @@
 @media (max-width: 600px){
     input[type=text] {
-        font-size: 8px;
+        font-size: 11px;
     }
 
     /* Header Section */
@@ -16,7 +16,7 @@
 
     .btn-login{
         padding: 1px 10px 4px !important;
-        font-size: 8px !important;
+        font-size: 10px !important;
     }
 
     /* Banner Content */
@@ -42,19 +42,20 @@
         font-size: 40px;
     }
 
-    .banner-text p{
-        font-size: 9px;
+    .banner-text p {
+        font-size: 13px;
         padding-bottom: 5px;
-    }
+        padding-right: 130px;
+      }
     
     .cari-data{
-        font-size: 8px !important;
-        padding: 2px 10px 5px !important;
+        font-size: 10px !important;
+        padding: 3px 12px 5px !important;
     }
 
     /* Feature Content */
     .bg-feature{
-        top: 65px;
+        top: 90px;
     }
 
     .bg-feature img {
@@ -62,11 +63,11 @@
     }
 
     .features {
-        top: 75px;
+        top: 100px;
     }
 
     .feature h2 {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
         font-size: 20px;
     }
 
@@ -75,16 +76,16 @@
     }
 
     .feature-item h3 {
-        font-size: 13px;
+        font-size: 14px;
         margin-bottom: 20px;
     }
 
     .feature-item p {
-        font-size: 9px;
+        font-size: 12px;
     }
     /* Form Content */
     .form{
-        height: 1225px;
+        height: 1295px;
     }
 
     .forms {
@@ -93,7 +94,7 @@
     }
 
     .bg-form {
-        bottom: -400px;
+        bottom: -470px;
     }
 
     .bg-form img {
@@ -175,7 +176,7 @@
 
 @media (min-width: 600px) {
     input[type=text] {
-        font-size: 10px;
+        font-size: 11px;
     }
 
     /* Header Section */
@@ -219,6 +220,7 @@
     .banner-text p{
         font-size: 11px;
         padding-bottom: 20px;
+        padding-right: 0;
     }
     
     .cari-data{
@@ -249,12 +251,12 @@
     }
 
     .feature-item h3 {
-        font-size: 13px;
+        font-size: 14px;
         margin-bottom: 20px;
     }
 
     .feature-item p {
-        font-size: 9px;
+        font-size: 12px;
     }
 
     /* Form Content */
@@ -346,7 +348,7 @@
 
 @media (min-width: 768px){
     input[type=text] {
-        font-size: 10px;
+        font-size: 12px;
     }
 
     /* Header Section */
